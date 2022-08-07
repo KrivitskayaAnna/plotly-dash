@@ -1,0 +1,25 @@
+A: Hello, how can I help you?
+G: Hello. I would like to stay at your hotel.
+A: Have you booked the room in advance?
+G: No, but I hope you will find something for me.
+A: Now I'll look. So ... We have several free rooms. There is a suite, there is a single standard and a double economy.
+G: And what is the cost of the rooms?
+A: The suite costs $ 30 per night, the "Standard" room - $ 20 per night, and the "Economy" for two - $ 15 per person.
+G: I would like to have a single room. I do not want to live with a stranger. I'll take the room for $ 30.
+A: Good. We have a room with mountain view, and there is one with a view of the park. Which one would you prefer?
+G: I really like greenery. I have a beautiful view of the forest from my window at home. And the mountains are not mine. I'm afraid of heights. Give me a room with a view of the park.
+A: All right.
+G: What about food?
+A: Breakfast is included in the room price. Standard continental breakfast.
+G: And where can I have lunch and dinner here?
+A: There is a small restaurant on the 1st floor of the hotel. There you can eat at any time.
+G: Great.
+A: If everything suits you, please fill in the application form and write down all the data.
+G: Here you are. Is it all right?
+A: Yes, all is well. Here are the keys to your room. You will be taken to the room and shown how to use the devices.
+G: Is there a mini bar in the room?
+A: Yes, there is. But you need to pay extra for everything there.
+G: I see. And another question. I need to send a few emails today. Do you have the opportunity to do this?
+A: Our hotel has free Wi-Fi. Moreover, we have a business center where you can not only send letters, but also print out everything that you need.
+G: Great. Thanks for the info.
+A: Have a nice rest.
